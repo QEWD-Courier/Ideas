@@ -8,9 +8,9 @@ To Discuss/debate ideas related to the QEWD-Courier framework
  
 QEWD-Courier is an integration/transformation/orchestration framework 
 
--based on [QEWD](https://github.com/robtweed/qewd), the Quality Enterprise/Quick and Easy Web Framework 
+-based on [QEWD.js](https://github.com/robtweed/qewd), the Quality Enterprise/Quick and Easy Web Framework 
 
--based on [nodejs](https://github.com/nodejs/node)
+-based on [Node.js](https://github.com/nodejs/node)
 
 
 See here for more info on [QEWDjs](http://qewdjs.com)
